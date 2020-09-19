@@ -14,7 +14,11 @@ use Symfony\Component\Security\Core\User\UserInterface;
  *          "get",
  *          "post" ={
  *                  "controller" = MakeUserController::class
- *          }
+ *          },
+ *          "auth" = {
+ *                 "method" = "post",
+ *                  "path" = "/authentaciation_token"
+ *          },
  *     }
  * )
  * @ORM\Entity(repositoryClass=UserRepository::class)
