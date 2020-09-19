@@ -11,12 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80db531a-260a-4443-a546-75860b40009d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Component/User/Dto/MakeUserRequestDto.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Component/User/MakeUser.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Component/User/UserFactory.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Component/User/UserManager.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Controller/MakeUserController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/packages/security.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/security.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Component/User/UserFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/User/UserFactory.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Entity/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/User.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -126,6 +123,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -136,7 +135,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600535816533</updated>
-      <workItem from="1600535817643" duration="1682000" />
+      <workItem from="1600535817643" duration="4180000" />
     </task>
     <servers />
   </component>
@@ -155,6 +154,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="752" y="267" key="#com.intellij.ide.util.MemberChooser" timestamp="1600538379929">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="752" y="267" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1600538379929" />
     <state x="736" y="472" width="423" height="555" key="NewPhpClassDialog" timestamp="1600537116380">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
