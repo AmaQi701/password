@@ -10,11 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80db531a-260a-4443-a546-75860b40009d" name="Default Changelist" comment="">
+    <list default="true" id="80db531a-260a-4443-a546-75860b40009d" name="Default Changelist" comment="hash password">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/packages/security.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/security.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Component/User/UserFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/User/UserFactory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Entity/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Entity/Book.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/Book.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,8 +133,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600535816533</updated>
-      <workItem from="1600535817643" duration="4180000" />
+      <workItem from="1600535817643" duration="4735000" />
     </task>
+    <task id="LOCAL-00001" summary="hash password">
+      <created>1600540125308</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600540125308</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,6 +159,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hash password" />
+    <option name="LAST_COMMIT_MESSAGE" value="hash password" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="752" y="267" key="#com.intellij.ide.util.MemberChooser" timestamp="1600538379929">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -166,5 +176,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="659" y="578" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600535877701" />
+    <state x="561" y="228" key="Vcs.Push.Dialog.v2" timestamp="1600540224535">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="561" y="228" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600540224535" />
   </component>
 </project>
