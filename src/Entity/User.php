@@ -3,12 +3,21 @@
 namespace App\Entity;
 
 use ApiPlatform\Core\Annotation\ApiResource;
+use App\Controller\MakeUserController;
 use App\Repository\UserRepository;
 use Doctrine\ORM\Mapping as ORM;
 
 /**
- * @ApiResource()
+ * @ApiResource(
+ *     collectionOperations={
+ *          "get",
+ *          "post" ={
+ *                  "controller" = MakeUserController::class
+ *          }
+ *     }
+ * )
  * @ORM\Entity(repositoryClass=UserRepository::class)
+ * @see MakeUserController
  */
 class User
 {
