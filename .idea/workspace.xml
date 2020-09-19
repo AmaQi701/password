@@ -10,20 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80db531a-260a-4443-a546-75860b40009d" name="Default Changelist" comment="hash password">
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/bookshop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/bookshop.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/bundles.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/bundles.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/packages/api_platform.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/api_platform.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/packages/security.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/security.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Entity/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfony.lock" afterDir="false" />
-    </list>
+    <list default="true" id="80db531a-260a-4443-a546-75860b40009d" name="Default Changelist" comment="jwtni o'rnatdik, token olomadim" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -146,7 +133,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600535816533</updated>
-      <workItem from="1600535817643" duration="6329000" />
+      <workItem from="1600535817643" duration="6941000" />
     </task>
     <task id="LOCAL-00001" summary="hash password">
       <created>1600540125308</created>
@@ -162,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600540835148</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="jwtni o'rnatdik, token olomadim">
+      <created>1600542322383</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600542322383</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,7 +175,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hash password" />
-    <option name="LAST_COMMIT_MESSAGE" value="hash password" />
+    <MESSAGE value="jwtni o'rnatdik, token olomadim" />
+    <option name="LAST_COMMIT_MESSAGE" value="jwtni o'rnatdik, token olomadim" />
   </component>
   <component name="WindowStateProjectService">
     <state x="752" y="267" key="#com.intellij.ide.util.MemberChooser" timestamp="1600538379929">
@@ -196,9 +191,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="659" y="578" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600535877701" />
-    <state x="561" y="228" key="Vcs.Push.Dialog.v2" timestamp="1600540847966">
+    <state x="561" y="228" key="Vcs.Push.Dialog.v2" timestamp="1600542392744">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="561" y="228" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600540847966" />
+    <state x="561" y="228" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600542392744" />
   </component>
 </project>
