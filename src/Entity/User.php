@@ -17,7 +17,7 @@ use Symfony\Component\Security\Core\User\UserInterface;
  *          },
  *          "auth" = {
  *                 "method" = "post",
- *                  "path" = "/authentaciation_token"
+ *                  "path" = "/authentication_token"
  *          },
  *     }
  * )
